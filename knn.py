@@ -136,11 +136,11 @@ eu = KNNeu()
 ab=KNNabs()
 ch=KNNche()
 
-# eu.predict_val()
-# eu.predict_test()
+eu.predict_val()
+eu.predict_test()
 
-# ab.predict_val()
-# ab.predict_test()
+ab.predict_val()
+ab.predict_test()
 
 ch.predict_val()
 ch.predict_test()
