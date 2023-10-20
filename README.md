@@ -26,7 +26,7 @@ Tree 選特徵 [feature_tree.py](https://github.com/Robert0831/ML_hw1/blob/main/
 ----------------------------------------------------------------------------
 第一小題和第二小題寫在一起
 
-Linear model[k_linear.py](https://github.com/Robert0831/ML_hw1/blob/main/k_linear.py)
+Linear model [k_linear.py](https://github.com/Robert0831/ML_hw1/blob/main/k_linear.py)
 
 K-NN [k_knn.py](https://github.com/Robert0831/ML_hw1/blob/main/k_knn.py)
 
